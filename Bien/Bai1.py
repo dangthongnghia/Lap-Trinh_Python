@@ -1,3 +1,5 @@
 x = 'Dang Nghia '
 y = 'Sieu cap vip pro'
-print(x,y)
+z = 18
+
+print(x,y,z)
