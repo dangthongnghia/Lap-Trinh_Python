@@ -1,2 +1,2 @@
-x = 'Dang Nghia pro'
+x = 'Dang Nghia '
 print(x)
