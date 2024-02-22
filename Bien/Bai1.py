@@ -1,2 +1,3 @@
 x = 'Dang Nghia '
-print(x)
+y = 'Sieu cap vip pro'
+print(x,y)
