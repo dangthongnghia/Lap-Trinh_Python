@@ -1,4 +1,4 @@
-# Nhap tuoi cua ban
+# Nhập tuổi của bạn 
 age = int(input('Nhập tuổi của bạn:'))
 if age > 0 and age <= 2:
  
