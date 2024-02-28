@@ -1,4 +1,4 @@
-n = float(input('Nhập vào một số bất kì:'))
+n = int(input('Nhập vào một số bất kì:'))
 # kiểm tra có phải là số nguyên không
 if isinstance(n, int):
    print(f'{n}là số nguyên')
