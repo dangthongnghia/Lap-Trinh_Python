@@ -1,15 +1,9 @@
-# Nhập tuổi của bạn 
-age = int(input('Nhập tuổi của bạn:'))
-if age > 0 and age <= 2:
- 
- print('Bạn là trẻ sơ sinh')
-if age > 2 and age <= 10:
- print('Bạn là nhi đồng')
-if age > 10 and age <= 17:
- print('Bạn là vị thành niên')
-if age > 17 and age <= 39:
- print('Bạn là thanh niên')
-if age > 39 and age <= 50:
- print('Bạn là trung niên')
-if age > 50:
- print('Bạn là cao niên') 
+diem_trung_binh = float(input('Vui lòng nhập điểm trung bình:'))
+if diem_trung_binh >= 9:
+   print('Bạn được nhận học bổng là 5.000.000')
+elif diem_trung_binh >= 8 and diem_trung_binh < 9:
+      print('Bạn được nhận học bổng là 3.000.000')
+elif diem_trung_binh >= 7 and diem_trung_binh < 8:
+      print('Bạn nhận được học bổng là 1.000.000') 
+else:
+   print('Bạn không được nhận học bổng.')
