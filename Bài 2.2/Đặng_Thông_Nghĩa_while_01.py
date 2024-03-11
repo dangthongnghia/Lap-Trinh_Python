@@ -3,7 +3,7 @@ tong = 0
 so_chan = 2
 
 # Lặp cho đến khi tổng vượt quá 50
-while tong + so_chan <= 100:
+while tong + so_chan <= 50:
     tong += so_chan
     so_chan += 2
 

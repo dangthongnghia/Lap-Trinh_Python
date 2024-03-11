@@ -1,3 +1,4 @@
+
 print("Nhập vào số a: ")
 a = float(input())
 print("Nhập vào số b: ")
