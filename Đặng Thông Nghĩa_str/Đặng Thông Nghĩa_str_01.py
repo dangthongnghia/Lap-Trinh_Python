@@ -1,3 +1,3 @@
-chuoi = 'Thirty' + 'Days' + 'Of' + 'Python'
+chuoi = 'Thirty ' + 'Days ' + 'Of ' + 'Python '
 
-prinf(chuoi)
+print(chuoi)
